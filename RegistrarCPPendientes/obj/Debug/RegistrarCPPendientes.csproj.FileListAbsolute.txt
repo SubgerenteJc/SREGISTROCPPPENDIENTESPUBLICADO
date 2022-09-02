@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\RegistrarCPPendientes\RegistrarCPPendientes\bin\Debug\RegistrarCPPendientes.exe.config
+C:\Users\Lenovo\source\repos\RegistrarCPPendientes\RegistrarCPPendientes\bin\Debug\RegistrarCPPendientes.exe
+C:\Users\Lenovo\source\repos\RegistrarCPPendientes\RegistrarCPPendientes\bin\Debug\RegistrarCPPendientes.pdb
+C:\Users\Lenovo\source\repos\RegistrarCPPendientes\RegistrarCPPendientes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\source\repos\RegistrarCPPendientes\RegistrarCPPendientes\bin\Debug\Tamir.SharpSSH.dll
+C:\Users\Lenovo\source\repos\RegistrarCPPendientes\RegistrarCPPendientes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\source\repos\RegistrarCPPendientes\RegistrarCPPendientes\obj\Debug\RegistrarCPPendientes.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\RegistrarCPPendientes\RegistrarCPPendientes\obj\Debug\RegistrarCPPendientes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\RegistrarCPPendientes\RegistrarCPPendientes\obj\Debug\RegistrarCPPendientes.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\RegistrarCPPendientes\RegistrarCPPendientes\obj\Debug\RegistrarCPPendientes.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\RegistrarCPPendientes\RegistrarCPPendientes\obj\Debug\RegistrarCPPendientes.exe
+C:\Users\Lenovo\source\repos\RegistrarCPPendientes\RegistrarCPPendientes\obj\Debug\RegistrarCPPendientes.pdb
